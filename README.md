@@ -51,3 +51,6 @@ streamlit run app.py
 First launch downloads and caches the four models (~2GB total); subsequent launches are fast. Enter a
 review or pick an example, then click **Analyze** to see the per-model sentiment breakdown, a majority
 vote, and the predicted topic with its similarity gap to the runner-up.
+
+## App Link
+https://pretrainedmodelchallengeelectronics-wwmqntqz7rxhtk56yazvai.streamlit.app/
